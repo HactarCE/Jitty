@@ -1,3 +1,7 @@
+## This repository has been archived.
+
+**You're probably looking for [NDCell](https://github.com/HactarCE/NDCell).**
+
 # NDCA
 
 This is a testing ground for a cellular automaton description language for [NDCell](https://github.com/HactarCE/NDCell).
